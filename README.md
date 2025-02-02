@@ -1,0 +1,2 @@
+# termux-debian
+用于在termux上使用proot容器安装Linux发行版debian的流程
