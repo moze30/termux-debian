@@ -116,7 +116,7 @@ Ctrl+o Ctrl+x
     sudo gpg --keyserver keyserver.ubuntu.com --recv-keys ED444FF07D8D0BF6
     sudo gpg --export --armor ED444FF07D8D0BF6 | sudo tee /etc/apt/trusted.gpg.d/kali-archive-keyring.asc
 
-中国镜像源（方案二）【不推荐】
+中国镜像源（方案二）
 
     deb [trusted=yes] https://mirrors.ustc.edu.cn/kali kali-rolling main non-free contrib
 
